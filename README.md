@@ -1,4 +1,5 @@
 # ratebeer
-ruby on rails -kurssi kevät 2016
 
-En nyt ole ihan varma toimiiko tämä repo oikein. Mutta täällä on appi: https://fierce-plateau-68475.herokuapp.com/breweries
+HUOM! Vanha repo jota en saanut toimimaan. uusi löytyy täältä: https://github.com/Eetuseppala/RailsKurssi2016
+
+https://fierce-plateau-68475.herokuapp.com/breweries
